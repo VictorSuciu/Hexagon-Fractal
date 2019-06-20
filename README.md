@@ -54,3 +54,5 @@ This project generates a space-filling fractal of hexagons. It is constructed as
 ![FractalImage](https://github.com/VictorSuciu/README-Assets/blob/master/Hexagon/HexagonFractal6.png)
 
 <br>
+
+...and so forth onto infinite depth.
