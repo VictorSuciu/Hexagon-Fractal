@@ -2,7 +2,7 @@ public class Hexagon {
   
   private int size, shade;
   private float rad, centerX, centerY;
-  private final int gap = 3;
+  private final int gap = 2;
   public Hexagon(int size, int deg, float centerX, float centerY, int shade) {
     this.size = size;
     this.rad = deg * (PI / 180);

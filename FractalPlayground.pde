@@ -28,7 +28,8 @@ void setup() {
     queue.get(i).display();
   }
   image.endDraw();
-  image.save("HexagonFractal.png");
+  String name = "HexagonFractal" + depthLimit + ".png";
+  image.save(name);
 }
 
 void drawDepth(int n, int size) {
