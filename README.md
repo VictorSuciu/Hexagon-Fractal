@@ -1,5 +1,9 @@
 # Hexagon Fractal
 
+[Inspiration](http://erkdemon.blogspot.com/2009/12/hex-fractal-carpet.html)
+
+ <br>
+
 This project generates a space-filling fractal of hexagons. It is constructed as such:
 
 <br>
