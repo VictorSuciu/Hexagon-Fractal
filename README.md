@@ -2,6 +2,8 @@
 
 This project generates a space-filling fractal of hexagons. It is constructed as such:
 
+<br>
+
 ### Depth 0:
 > One hexagon of width w in the center
 
